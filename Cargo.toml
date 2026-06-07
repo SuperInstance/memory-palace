@@ -1,0 +1,11 @@
+[package]
+name = "memory-palace"
+version = "0.1.0"
+edition = "2021"
+description = "Method of loci memory indexing — rooms, corridors, and spatial recall"
+license = "MIT"
+keywords = ["memory", "palace", "loci", "spatial", "navigation"]
+categories = ["data-structures", "algorithms"]
+repository = "https://github.com/SuperInstance/memory-palace"
+
+[dependencies]
